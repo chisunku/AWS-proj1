@@ -1,5 +1,5 @@
 # AWS-proj1
-drop.chinmayisunku.ml 
+URL: https://drop.chinmayisunku.ml/
 
 Instruction to run:
   - Software required: SpringBoot and React
